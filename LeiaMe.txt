@@ -1,0 +1,9 @@
+Nome: Deisilani Nunes Nascimento
+
+Título: COMPARAÇÃO DE TESTES MANUAIS E AUTOMATIZADOS NA PLATAFORMA EDUCACIONAL MAIS IFMG UTILIZANDO CYPRESS
+
+Resumo: Este trabalho apresenta uma análise comparativa entre testes manuais e automatizados na plataforma educacional Mais IFMG, utilizando a ferramenta Cypress. O estudo visa avaliar a eficácia, eficiência e cobertura de testes em um ambiente educacional online, contribuindo para a melhoria da qualidade do software e da experiência do usuário. A metodologia empregada incluiu a implementação de testes automatizados com Cypress e a execução de testes manuais em diversas funcionalidades da plataforma, como login, inscrição em cursos, navegação entre módulos e geração de certificados. Os resultados obtidos demonstraram que os testes automatizados apresentam vantagens significativas em termos de tempo de execução e consistência, enquanto os testes manuais se destacaram na identificação de problemas de usabilidade e na flexibilidade para cenários não previstos. A comparação revelou que uma abordagem híbrida, combinando testes manuais e automatizados, pode oferecer uma cobertura mais abrangente e eficaz. O estudo também identificou desafios específicos na implementação de testes automatizados, como a necessidade de atualização constante de scripts devido a mudanças na plataforma. Conclui-se que a integração de testes automatizados na plataforma educacional Mais IFMG pode melhorar significativamente a eficiência do processo de garantia de qualidade, embora os testes manuais continuem desempenhando um papel crucial na avaliação de aspectos subjetivos da experiência do usuário.
+Palavras-chave: Teste de software; Automação; Educação a distância; Qualidade de software; Interação homem-computador.
+
+Orientador: Prof. Me. Zady Castaneda Salazar
+Mês/Ano: 01 de 2025
